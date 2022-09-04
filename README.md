@@ -5,7 +5,7 @@
 
  
 ![spring-boot-logo](https://user-images.githubusercontent.com/85693353/188324650-c235a5dd-d284-49e9-a3eb-a839728a2bd9.png)
-![Postman_Logo](https://user-images.githubusercontent.com/85693353/188324653-709bcb82-8464-4a1f-89a0-1a10ac689007.png)
+![Postman_Logo](https://user-images.githubusercontent.com/85693353/188324672-a2799b19-e57a-4997-a1b9-ea1376eef56d.png)
 
 
 
